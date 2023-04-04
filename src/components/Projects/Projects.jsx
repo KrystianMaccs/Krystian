@@ -39,7 +39,6 @@ function Projects() {
               title="Django Blog API"
               description="A Blog API built with Django and Django REST framework. Enables geolocation in which it returns if the day a user signed up coincides with a holiday in the user's country."
               ghLink="https://github.com/KrystianMaccs/django-blog-api"
-              //demoLink="https://blogs.soumya-jit.tech/"
             />
           </Col>
 
@@ -58,10 +57,9 @@ function Projects() {
             <ProjectCard
               imgPath={leaf}
               isBlog={false}
-              title="Plant AI"
-              description="Used the plant disease dataset from Kaggle and trained a image classifer model using 'PyTorch' framework using CNN and Transfer Learning with 38 classes of various plant leaves. The model was successfully able to detect diseased and healthy leaves of 14 unique plants. I was able to achieve an accuracy of 98% by using Resnet34 pretrained model."
-              //ghLink="https://github.com/soumyajit4419/Plant_AI"
-              //demoLink="https://plant49-ai.herokuapp.com/"
+              title="Apollo"
+              description="A music storage and streaming API built with Django and Django REST Framework. Users can sign up and upload music for other users to listen to."
+              ghLink="https://github.com/KrystianMaccs/music-apollo.git"
             />
           </Col>
 
@@ -71,8 +69,7 @@ function Projects() {
               isBlog={false}
               title="Data School"
               description="An API built with Django/Django REST Framework. This API is a learning platform where users can sign up as instructors or as students. They can also selct modules to learn as well as take quizzes."
-              //ghLink="https://github.com/soumyajit4419/AI_For_Social_Good"
-              // demoLink="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" <--------Please include a demo link here
+              ghLink="https://github.com/KrystianMaccs/data_school.git"
             />
           </Col>
 
@@ -84,7 +81,6 @@ function Projects() {
               description="Trained a CNN classifier using 'FER-2013 dataset' with Keras and tensorflow backened. The classifier sucessfully predicted the various types of emotions of human. And the highest accuracy obtained with the model was 60.1%.
               Then used Open-CV to detect the face in an image and then pass the face to the classifer to predict the emotion of a person."
               //ghLink="https://github.com/soumyajit4419/Face_And_Emotion_Detection"
-              // demoLink="https://blogs.soumya-jit.tech/"      <--------Please include a demo link here 
             />
           </Col>
         </Row>
