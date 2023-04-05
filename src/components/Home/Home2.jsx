@@ -21,13 +21,13 @@ function Home2() {
               I fell in love with programming and I have at least learnt
               something, I think… 🤷‍♂️
               <br />
-              <br />I am fluent in classics like
+              <br />I am fluent in Languages like
               <i>
                 <b className="purple"> C, Javascript and Python. </b>
               </i>
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
+              My field of Interests are in building new &nbsp;
               <i>
                 <b className="purple">Web Technologies and Products </b> and
                 also in areas related to{" "}
@@ -40,14 +40,14 @@ function Home2() {
               Whenever possible, I also apply my passion for developing products
               with <b className="purple">Django, Flask and FastAPI</b> and
               <i>
-                <b className="purple">
+                <b className="#">
                   {" "}
-                  Modern Javascript Library and Frameworks
+                  Modern Javascript Library and Frameworks and Runtime Frameworks
                 </b>
               </i>
               &nbsp; like
               <i>
-                <b className="purple"> React.js and Next.js</b>
+                <b className="purple"> ReactJs and NodeJs/ExpressJs</b>
               </i>
             </p>
           </Col>
